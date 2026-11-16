@@ -180,6 +180,6 @@ Reference: Rent
 
 The code is private because this is assessed coursework. If you're a recruiter or interviewer, I'm happy to walk you through the codebase live or share it privately on request.
 
-**Contact:** `<your-email>` · `<your-linkedin>`
+**Contact:** `sihelawanasekara@gmail.com` · `https://www.linkedin.com/in/sihela-wanasekara/`
 
 ---
